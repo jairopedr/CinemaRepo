@@ -6,3 +6,5 @@
 
 ![cinema_1](https://user-images.githubusercontent.com/62018318/127570774-def34848-bd34-4525-bfd3-ff3506ceea8f.jpg)
 
+Figura 1: Modelo de README.md com imagem, título e descrição
+
